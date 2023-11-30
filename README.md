@@ -3,7 +3,7 @@
 
 I am a Full Stack Magento Developer and Tech guide. I am passionate about technologies and love to learn new things.
 
-#### <img src="https://raw.githubusercontent.com/magemanish/magemanish/master/assets/work.png" width="18px"> I’m currently working as Software Developer | Sr. Magento Developer at Vinove Software and Services Pvt. Ltd.
+#### <img src="https://raw.githubusercontent.com/magemanish/magemanish/master/assets/work.png" width="18px"> I’m currently working as Software Developer | Sr. Magento Developer.
 
 
 ## <img src="https://raw.githubusercontent.com/magemanish/magemanish/master/assets/code.png" width="24px"> Tech Stack
